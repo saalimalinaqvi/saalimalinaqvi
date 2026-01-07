@@ -9,7 +9,7 @@
 <!--  Typing Animation        -->
 <!-- ========================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Website+Development;Cybersecurity+Engineer;Security+Automation+(SOAR);Cloud+%7C+Web+%7C+SOC+Security;Data+Analytics+%26+AI" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Website+Development;Cybersecurity+Engineer;Security+Automation+(SOAR);Cloud+%7C+Web+%7C+SOC+Security;Data+Analytics" />
 </p>
 
 ---

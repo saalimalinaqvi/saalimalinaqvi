@@ -10,21 +10,18 @@ permissions:
 
 jobs:
   generate:
-    name: Build snake animation
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate contribution snake
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: saalimnaqvi
           outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
 
-      - name: Publish snake animation
+      - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output

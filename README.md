@@ -1,16 +1,29 @@
-## Hi there 👋
+<!-- ========================= -->
+<!--  Animated Header Banner  -->
+<!-- ========================= -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Saalim%20Ali%20Naqvi&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**saalimalinaqvi/saalimalinaqvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ========================= -->
+<!--  Typing Animation        -->
+<!-- ========================= -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Engineer;Security+Automation+(SOAR);Data+Analytics+%26+AI;Cloud+%7C+Web+%7C+SOC+Security;Founder+%7C+Problem+Solver" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+```yaml
+Name: Saalim Ali Naqvi
+Profession: Full Stack Engineer | Cybersecurity |Data Analyst
+Core Focus:
+  - Full Stack Website Development
+  - Security Automation (SOAR)
+  - SOC & Incident Response
+  - Cloud & Web Security
+  - Data Analytics
+Approach: Build real-world systems, not demo projects
+

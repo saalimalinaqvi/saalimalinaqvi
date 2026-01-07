@@ -14,6 +14,8 @@
 
 <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saalimalinaqvi/saalimalinaqvi/output/github-contribution-grid-snake-dark.svg"> <img src="https://raw.githubusercontent.com/saalimalinaqvi/saalimalinaqvi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </picture> </p>
 
+<p align="center"> <a href="https://github.com/saalimalinaqvi"> <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github" /> </a> <a href="https://linkedin.com/in/YOUR_LINKEDIN"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" /> </a> <a href="https://YOUR_PORTFOLIO"> <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" /> </a> </p> <!-- ========================= --> <!-- Footer Banner --> <!-- ========================= --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer" /> </p> ```
+
 
 ---
 

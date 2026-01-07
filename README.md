@@ -12,6 +12,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=500&color=00E7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Website+Development;Cybersecurity+Engineer;Security+Automation+(SOAR);Cloud+%7C+Web+%7C+SOC+Security;Data+Analytics+%26+AI" />
 </p>
 
+<p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saalimalinaqvi/saalimalinaqvi/output/github-contribution-grid-snake-dark.svg"> <img src="https://raw.githubusercontent.com/saalimalinaqvi/saalimalinaqvi/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"> </picture> </p>
+
+
 ---
 
 ## 👋 About Me
